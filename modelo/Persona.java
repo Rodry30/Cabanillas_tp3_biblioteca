@@ -5,5 +5,4 @@ public class Persona{
 	public void setNombre(String nombre)
 }
 public String getNombre(){
-	xxxxx
 }
