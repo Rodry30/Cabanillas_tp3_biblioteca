@@ -1,0 +1,2 @@
+Ingrese usuario:
+Ingrese contrasena:
